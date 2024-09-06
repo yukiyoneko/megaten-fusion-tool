@@ -1,0 +1,1400 @@
+{
+  "Aeon Rain": {
+    "cost": 40,
+    "effect": "95% acc, 15% crit, x2-3 hits",
+    "element": "pie",
+    "hit": 95,
+    "power": 200,
+    "rank": 9,
+    "target": "All Foes"
+  },
+  "Agi": {
+    "card": "Orpheus, Berith",
+    "cost": 1003,
+    "effect": "95% acc",
+    "element": "fir",
+    "hit": 95,
+    "power": 40,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Agidyne": {
+    "card": "Surt, Seth",
+    "cost": 1012,
+    "effect": "95% acc",
+    "element": "fir",
+    "hit": 95,
+    "power": 320,
+    "rank": 5.5,
+    "target": "One Foe"
+  },
+  "Agilao": {
+    "card": "Lamia",
+    "cost": 1006,
+    "effect": "95% acc",
+    "element": "fir",
+    "hit": 95,
+    "power": 120,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Agneyastra": {
+    "cost": 36,
+    "effect": "90% acc, 3% crit, x2-4 hits",
+    "element": "str",
+    "hit": 90,
+    "power": 100,
+    "rank": 9,
+    "target":"All Foes"
+  },
+  "Akasha Arts": {
+    "card": "Sandalphon",
+    "cost": 40,
+    "effect": "85% acc, 10% crit, x1-2 hits",
+    "element": "str",
+    "hit": 85,
+    "power": 350,
+    "rank": 7,
+    "target": "All Foes"
+  },
+  "Ali Dance": {
+    "card": "Kikuri-Hime",
+    "effect": "Halves enemy hit rate when attacked",
+    "element": "pas",
+    "rank": 0
+  },
+  "Angelic Grace": {
+    "card": "Kikuri-Hime",
+    "effect": "0.85x hit rate from non-Almighty Magic attacks",
+    "element": "pas",
+    "rank": 7
+  },
+  "Ardhanari": {
+    "card": "Malachite x3, Ruby x2",
+    "cost": 130,
+    "effect": "90% acc",
+    "element": "fir",
+    "hit": 90,
+    "power": 900,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Armageddon": {
+    "card": "Malachite x99, Ruby x10",
+    "cost": 200,
+    "effect": "2000 set damage, Almighty Instakill, 100% acc",
+    "element": "alm",
+    "hit": 100,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Arrow Rain": {
+    "card": "Garuda",
+    "cost": 22,
+    "effect": "80% acc, 5% crit, x1-3 hits",
+    "element": "pie",
+    "hit": 80,
+    "power": 50,
+    "rank": 6.5,
+    "target": "All Foes"
+  },
+  "Assault Dive": {
+    "card": "Legion",
+    "cost": 12,
+    "effect": "88% acc, 5% crit",
+    "element": "str",
+    "hit": 88,
+    "power": 90,
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Atom Smasher": {
+    "cost": 18,
+    "effect": "92% acc, 5% crit, x1-2 hits, 25% fear",
+    "element": "sla",
+    "hit": 92,
+    "power": 120,
+    "rank": 5,
+    "target": "All Foes"
+  },
+  "Auto-Maraku": {
+    "card": "Raphael",
+    "effect": "Begin battle with Marakukaja",
+    "element": "pas",
+    "rank": 9
+  },
+  "Auto-Masuku": {
+    "card": "Horus",
+    "effect": "Begin battle with Masukukaja",
+    "element": "pas",
+    "rank": 9
+  },
+  "Auto-Mataru": {
+    "card": "Melchizedek",
+    "effect": "Begin battle with Matarukaja",
+    "element": "pas",
+    "rank": 9
+  },
+  "Bash": {
+    "cost": 10,
+    "effect": "90% acc, 5% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 30,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Best Friends": {
+    "card": "Malachite x2, Topaz x2",
+    "cost": 125,
+    "effect": "Tarukaja + Rakukaja + Sukukaja",
+    "element": "sup",
+    "rank": 0,
+    "target": "All Allies",
+    "unique": "Fusion Spell"
+  },
+  "Bewilder": {
+    "cost": 1005,
+    "effect": "60% Distress",
+    "element": "ail",
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Black Spot": {
+    "cost": 18,
+    "effect": "85% acc, 35% crit",
+    "element": "str",
+    "hit": 85,
+    "power": 130,
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Black Viper": {
+    "cost": 1080,
+    "effect": "98% acc",
+    "element": "alm",
+    "hit": 98,
+    "power": 1800,
+    "rank": 9,
+    "target": "One Foe",
+    "unique": "Satan"
+  },
+  "Blade of Fury": {
+    "card": "Chernobog",
+    "cost": 22,
+    "effect": "82% acc, 5% crit, x2-3 hits",
+    "element": "sla",
+    "hit": 82,
+    "power": 100,
+    "rank": 5.5,
+    "target": "All Foes"
+  },
+  "Brave Blade": {
+    "card": "Atavaka",
+    "cost": 30,
+    "effect": "92% acc, 10% crit",
+    "element": "sla",
+    "hit": 92,
+    "power": 850,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Bufu": {
+    "card": "Apsaras",
+    "cost": 1004,
+    "effect": "95% acc, 10% Freeze",
+    "element": "ice",
+    "hit": 95,
+    "power": 40,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Bufudyne": {
+    "card": "Parvati, Hariti",
+    "cost": 1016,
+    "effect": "95% acc, 10% Freeze",
+    "element": "ice",
+    "hit": 95,
+    "power": 320,
+    "rank": 5.5,
+    "target": "One Foe"
+  },
+  "Bufula": {
+    "card": "High Pixie",
+    "cost": 1008,
+    "effect": "95% acc, 10% Freeze",
+    "element": "ice",
+    "hit": 95,
+    "power": 120,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Cleave": {
+    "cost": 10,
+    "effect": "90% acc, 8% crit",
+    "element": "sla",
+    "hit": 90,
+    "power": 30,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Cruel Attack": {
+    "card": "Kurama Tengu",
+    "cost": 14,
+    "effect": "99% acc, 1% crit, Dmg x2 on Downed foes",
+    "element": "pie",
+    "hit": 99,
+    "power": 225,
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Deathbound": {
+    "card": "Uriel",
+    "cost": 26,
+    "effect": "88% acc, 20% crit",
+    "element": "sla",
+    "hit": 88,
+    "power": 370,
+    "rank": 6.5,
+    "target": "All Foes"
+  },
+  "Demonic Decree": {
+    "cost": 1024,
+    "effect": "80% insta-kill",
+    "element": "dar",
+    "rank": 9,
+    "target": "One Foe"
+  },
+  "Die for Me!": {
+    "cost": 1060,
+    "effect": "60% insta-kill",
+    "element": "dar",
+    "rank": 9,
+    "target": "All Foes",
+    "unique": "Alice"
+  },
+  "Divine Judgement": {
+    "cost": 1024,
+    "effect": "80% insta-kill",
+    "element": "lig",
+    "rank": 9,
+    "target": "One Foe"
+  },
+  "Donum Gladi": {
+    "cost": 1030,
+    "effect": "Next Phys attack x1.9 dmg",
+    "element": "sup",
+    "rank": 0,
+    "target": "One Ally"
+  },
+  "Donum Magici": {
+    "cost": 1030,
+    "effect": "Next Magic attack x1.9 dmg",
+    "element": "sup",
+    "rank": 0,
+    "target": "One Ally"
+  },
+  "Double Fangs": {
+    "card": "Naga",
+    "cost": 12,
+    "effect": "85% acc, 1% crit, x2 hits",
+    "element": "pie",
+    "hit": 85,
+    "power": 20,
+    "rank": 2,
+    "target": "One Foe"
+  },
+  "Eerie Sound": {
+    "cost": 1012,
+    "effect": "45% Distress",
+    "element": "ail",
+    "rank": 2,
+    "target": "All Foes"
+  },
+  "Elec Break": {
+    "card": "Hokuto Seikun",
+    "cost": 1012,
+    "effect": "Removes Elec resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Energy Drain": {
+    "cost": 1020,
+    "effect": "100% acc, Drains HP/SP",
+    "element": "alm",
+    "hit": 100,
+    "power": 150,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Evil Smile": {
+    "card": "Mokoi",
+    "cost": 1012,
+    "effect": "45% Fear",
+    "element": "ail",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Evil Touch": {
+    "cost": 1005,
+    "effect": "60% Fear",
+    "element": "ail",
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Fatal End": {
+    "card": "Taraka",
+    "cost": 18,
+    "effect": "92% acc, 10% crit",
+    "element": "sla",
+    "hit": 92,
+    "power": 230,
+    "rank": 4.5,
+    "target": "One Foe"
+  },
+  "Fire Break": {
+    "card": "Succubus",
+    "cost": 1012,
+    "effect": "Removes Fire resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Firm Stance": {
+    "card": "Kikuri-Hime",
+    "effect": "Halves damage from all attacks but can never evade",
+    "element": "pas",
+    "rank": 0
+  },
+  "Foul Breath": {
+    "card": "Mothman",
+    "cost": 1008,
+    "effect": "Halves ailment resistance for 3 turns",
+    "element": "alm",
+    "rank": 2,
+    "target": "One Foe"
+  },
+  "Freikugel": {
+    "cost": 30,
+    "effect": "99% acc, 10% crit, x2 Downed Bonus",
+    "element": "pie",
+    "hit": 99,
+    "power": 550,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Frolic": {
+    "card": "Malachite x1, Amethyst x2",
+    "cost": 110,
+    "effect": "Restores 100% HP, 10% Charm",
+    "element": "rec",
+    "rank": 0,
+    "target": "All Allies",
+    "unique": "Fusion Spell"
+  },
+  "Gale Slash": {
+    "card": "Shiisaa",
+    "cost": 18,
+    "effect": "95% acc, 3% crit",
+    "element": "sla",
+    "hit": 95,
+    "power": 100,
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Garu": {
+    "card": "Angel",
+    "cost": 1003,
+    "effect": "95% acc,",
+    "element": "win",
+    "hit": 95,
+    "power": 40,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Garudyne": {
+    "card": "Loki, Pazuzu",
+    "cost": 1012,
+    "effect": "95% acc,",
+    "element": "win",
+    "hit": 95,
+    "power": 320,
+    "rank": 5.5,
+    "target": "One Foe"
+  },
+  "Garula": {
+    "card": "Empusa",
+    "cost": 1006,
+    "effect": "95% acc,",
+    "element": "win",
+    "hit": 95,
+    "power": 120,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Getsu-ei": {
+    "card": "Ares, Tam Lin",
+    "cost": 16,
+    "effect": "90% acc, 3% crit, Dmg x1.5 during Full Moon",
+    "element": "sla",
+    "hit": 90,
+    "power": 120,
+    "rank": 3,
+    "target": "One Foe"
+  },
+  "Ghastly Wail": {
+    "cost": 1020,
+    "effect": "Insta-kill to Fearful foes",
+    "element": "ail",
+    "rank": 8,
+    "target": "All Foes"
+  },
+  "Gigantic Fist": {
+    "card": "Ubelluris",
+    "cost": 16,
+    "effect": "80% acc, 15% crit",
+    "element": "str",
+    "hit": 80,
+    "power": 305,
+    "rank": 5.5,
+    "target": "One Foe"
+  },
+  "God's Hand": {
+    "card": "Metatron",
+    "cost": 32,
+    "effect": "90% acc, 5% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 1300,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Hama": {
+    "card": "Archangel",
+    "cost": 1006,
+    "effect": "30% insta-kill",
+    "element": "lig",
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Hamaon": {
+    "card": "Virtue",
+    "cost": 1012,
+    "effect": "50% insta-kill",
+    "element": "lig",
+    "rank": 4.5,
+    "target": "One Foe"
+  },
+  "Hassou Tobi": {
+    "cost": 40,
+    "effect": "75% acc, 3% crit, x8 hits",
+    "element": "sla",
+    "hit": 75,
+    "power": 20,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Yoshitsune"
+  },
+  "Heat Riser": {
+    "cost": 1018,
+    "effect": "Tarukaja + Rakukaja + Sukukaja",
+    "element": "sup",
+    "rank": 5,
+    "target": "One Ally"
+  },
+  "Heat Wave": {
+    "card": "Dionysus",
+    "cost": 22,
+    "effect": "90% acc, 10% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 280,
+    "rank": 5.5,
+    "target": "All Foes"
+  },
+  "Heaven's Blade": {
+    "cost": 18,
+    "effect": "95% acc, 25% crit",
+    "element": "sla",
+    "hit": 95,
+    "power": 500,
+    "rank": 7,
+    "target": "One Foe",
+    "unique": "Michael"
+  },
+  "Herculean Strike": {
+    "card": "Nata Taishi",
+    "cost": 18,
+    "effect": "85% acc, 3% crit",
+    "element": "str",
+    "hit": 85,
+    "power": 210,
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Holy Arrow": {
+    "cost": 13,
+    "effect": "92% acc, 5% crit, 25% Charm",
+    "element": "pie",
+    "hit": 92,
+    "power": 60,
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Ice Break": {
+    "card": "Laksmi",
+    "cost": 1012,
+    "effect": "Removes Ice resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Infinity": {
+    "card": "Malachite x4, Pearl x4",
+    "cost": 130,
+    "effect": "Nullifies next attack",
+    "element": "sup",
+    "rank": 0,
+    "target": "One Ally",
+    "unique": "Fusion Spell"
+  },
+  "Infuriate": {
+    "cost": 1012,
+    "effect": "45% Rage",
+    "element": "ail",
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Insta-Heal": {
+    "card": "Kikuri-Hime",
+    "effect": "Automatically recover from ailments in 1 turn",
+    "element": "pas",
+    "rank": 0
+  },
+  "Jack Brothers": {
+    "card": "Malachite x2, Emerald x1",
+    "cost": 115,
+    "effect": "50% chance of Knockdown",
+    "element": "alm",
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Justice": {
+    "card": "Malachite x1, Diamond x1",
+    "cost": 130,
+    "effect": "90% acc, x2 Charmed Bonus",
+    "element": "alm",
+    "hit": 90,
+    "power": 80,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Kill Rush": {
+    "card": "Vetala",
+    "cost": 14,
+    "effect": "85% acc, 3% crit, x1-2 hits",
+    "element": "str",
+    "hit": 85,
+    "power": 110,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "King and I": {
+    "card": "Malachite x3, Garnet x1",
+    "cost": 115,
+    "effect": "99% acc, 50% chance of Freeze",
+    "element": "ice",
+    "hit": 99,
+    "power": 260,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Last Judge": {
+    "card": "Malachite x10, Ruby x1",
+    "cost": 130,
+    "effect": "95% acc, 10% crit, strength-based",
+    "element": "alm",
+    "hit": 95,
+    "power": 1500,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Life Drain": {
+    "cost": 1005,
+    "effect": "100% acc, Drains 120 HP",
+    "element": "alm",
+    "hit": 100,
+    "rank": 3,
+    "target": "One Foe"
+  },
+  "Life Leech": {
+    "cost": 1015,
+    "effect": "100% acc, Drains 360 HP",
+    "element": "alm",
+    "hit": 100,
+    "rank": 7,
+    "target": "One Foe"
+  },
+  "Mabufu": {
+    "card": "Mithra, Yamatano-Orochi",
+    "cost": 1010,
+    "effect": "90% acc, 8% Freeze",
+    "element": "ice",
+    "hit": 90,
+    "power": 40,
+    "rank": 2,
+    "target": "All Foes"
+  },
+  "Mabufudyne": {
+    "card": "Trumpeter, Michael",
+    "cost": 1040,
+    "effect": "90% acc, 8% Freeze",
+    "element": "ice",
+    "hit": 90,
+    "power": 320,
+    "rank": 6,
+    "target": "All Foes"
+  },
+  "Mabufula": {
+    "card": "King Frost",
+    "cost": 1016,
+    "effect": "90% acc, 8% Freeze",
+    "element": "ice",
+    "hit": 90,
+    "power": 120,
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Magaru": {
+    "card": "Fortuna",
+    "cost": 1008,
+    "effect": "90% acc",
+    "element": "win",
+    "hit": 90,
+    "power": 40,
+    "rank": 2,
+    "target": "All Foes"
+  },
+  "Magarudyne": {
+    "card": "Suparna",
+    "cost": 1030,
+    "effect": "90% acc",
+    "element": "win",
+    "hit": 90,
+    "power": 320,
+    "rank": 6,
+    "target": "All Foes"
+  },
+  "Magarula": {
+    "card": "Nandi, Seiryuu",
+    "cost": 1015,
+    "effect": "90% acc",
+    "element": "win",
+    "hit": 90,
+    "power": 120,
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Mahama": {
+    "card": "Power",
+    "cost": 1015,
+    "effect": "25% insta-kill",
+    "element": "lig",
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Mahamaon": {
+    "card": "Throne",
+    "cost": 1030,
+    "effect": "40% insta-kill",
+    "element": "lig",
+    "rank": 5,
+    "target": "All Foes"
+  },
+  "Mamudo": {
+    "card": "Ghoul",
+    "cost": 1015,
+    "effect": "25% insta-kill",
+    "element": "dar",
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Mamudoon": {
+    "card": "Anubis",
+    "cost": 1030,
+    "effect": "40% insta-kill",
+    "element": "dar",
+    "rank": 5,
+    "target": "All Foes"
+  },
+  "Maragi": {
+    "card": "Slime",
+    "cost": 1008,
+    "effect": "90% acc",
+    "element": "fir",
+    "hit": 90,
+    "power": 40,
+    "rank": 2,
+    "target": "All Foes"
+  },
+  "Maragidyne": {
+    "card": "Baal Zebul",
+    "cost": 1030,
+    "effect": "90% acc",
+    "element": "fir",
+    "hit": 90,
+    "power": 320,
+    "rank": 6,
+    "target": "All Foes"
+  },
+  "Maragion": {
+    "card": "Eligor",
+    "cost": 1015,
+    "effect": "90% acc",
+    "element": "fir",
+    "hit": 90,
+    "power": 120,
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Marakukaja": {
+    "card": "Decarabia",
+    "cost": 1018,
+    "effect": "Raises DEF by 1.25x for 3 turns",
+    "element": "sup",
+    "rank": 5,
+    "target": "All Allies"
+  },
+  "Marakunda": {
+    "card": "Black Frost",
+    "cost": 1018,
+    "effect": "Lowers DEF by 1.25x for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Maralagidyne": {
+    "card": "Mara",
+    "cost": 1036,
+    "effect": "90% acc",
+    "element": "fir",
+    "hit": 90,
+    "power": 420,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Mara"
+  },
+  "Marin Karin": {
+    "cost": 1005,
+    "effect": "60% Charm",
+    "element": "ail",
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Masukukaja": {
+    "card": "Suzaku",
+    "cost": 1018,
+    "effect": "Raises HIT/EVA by 1.25x for 3 turns",
+    "element": "sup",
+    "rank": 5,
+    "target": "All Allies"
+  },
+  "Masukunda": {
+    "cost": 1018,
+    "effect": "Lowers HIT/EVA by 1.25x for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Matarukaja": {
+    "card": "Rescue and 1st term exam reward",
+    "cost": 1018,
+    "effect": "Raises ATK by 1.25x for 3 turns",
+    "element": "sup",
+    "rank": 5,
+    "target": "All Allies"
+  },
+  "Matarunda": {
+    "card": "Rangda",
+    "cost": 1018,
+    "effect": "Lowers ATK by 1.25x for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Mazio": {
+    "card": "Oberon",
+    "cost": 1010,
+    "effect": "90% acc, 8% Shock",
+    "element": "ele",
+    "hit": 90,
+    "power": 40,
+    "rank": 2,
+    "target": "All Foes"
+  },
+  "Maziodyne": {
+    "card": "Lilith",
+    "cost": 1040,
+    "effect": "90% acc, 8% Shock",
+    "element": "ele",
+    "hit": 90,
+    "power": 320,
+    "rank": 6,
+    "target": "All Foes"
+  },
+  "Mazionga": {
+    "card": "Thoth",
+    "cost": 1020,
+    "effect": "90% acc, 8% Shock",
+    "element": "ele",
+    "hit": 90,
+    "power": 120,
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Megido": {
+    "card": "Nebiros",
+    "cost": 1020,
+    "effect": "95% acc",
+    "element": "alm",
+    "hit": 95,
+    "power": 180,
+    "rank": 6.5,
+    "target": "All Foes"
+  },
+  "Megidola": {
+    "card": "Thanatos",
+    "cost": 1035,
+    "effect": "95% acc",
+    "element": "alm",
+    "hit": 95,
+    "power": 320,
+    "rank": 7.5,
+    "target": "All Foes"
+  },
+  "Megidolaon": {
+    "card": "Messiah",
+    "cost": 1050,
+    "effect": "95% acc",
+    "element": "alm",
+    "hit": 95,
+    "power": 650,
+    "rank": 8,
+    "target": "All Foes"
+  },
+  "Mighty Swing": {
+    "card": "Orthrus",
+    "cost": 14,
+    "effect": "95% acc, 5% crit",
+    "element": "sla",
+    "hit": 95,
+    "power": 220,
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Morning Star": {
+    "cost": 1075,
+    "effect": "95% acc",
+    "element": "alm",
+    "hit": 95,
+    "power": 900,
+    "rank": 9,
+    "target": "All Foes"
+  },
+  "Mudoon": {
+    "card": "Samael",
+    "cost": 1012,
+    "effect": "50% insta-kill",
+    "element": "dar",
+    "rank": 4.5,
+    "target": "One Foe"
+  },
+  "Myriad Arrows": {
+    "card": "Cybele",
+    "cost": 32,
+    "effect": "75% acc, 30% crit, x2 hits",
+    "element": "pie",
+    "hit": 75,
+    "power": 100,
+    "rank": 7,
+    "target": "All Foes"
+  },
+  "Niflheim": {
+    "cost": 1040,
+    "effect": "99% acc, 20% Freeze",
+    "element": "ice",
+    "hit": 99,
+    "power": 650,
+    "rank": 9,
+    "target": "One Foe"
+  },
+  "Panta Rhei": {
+    "cost": 1030,
+    "effect": "99% acc",
+    "element": "win",
+    "hit": 99,
+    "power": 650,
+    "rank": 9,
+    "target": "One Foe"
+  },
+  "Phys Skill Up": {
+    "effect": "Phys Skill dmg x1.25",
+    "element": "pas",
+    "rank": 0
+  },
+  "Poisma": {
+    "cost": 1005,
+    "effect": "60% Poison",
+    "element": "ail",
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Poison Arrow": {
+    "cost": 18,
+    "effect": "95% acc, 3% crit, 30% Poison",
+    "element": "pie",
+    "hit": 95,
+    "power": 300,
+    "rank": 5,
+    "target": "One Foe"
+  },
+  "Poison Mist": {
+    "cost": 1012,
+    "effect": "45% Poison",
+    "element": "ail",
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Power Slash": {
+    "card": "Valkyrie",
+    "cost": 12,
+    "effect": "92% acc, 5% crit",
+    "element": "sla",
+    "hit": 92,
+    "power": 88,
+    "rank": 2,
+    "target": "One Foe"
+  },
+  "Pralaya": {
+    "card": "Shiva",
+    "cost": 40,
+    "effect": "85% acc, 30% crit, 50% Fear",
+    "element": "pie",
+    "hit": 85,
+    "power": 600,
+    "rank": 8,
+    "target": "All Foes"
+  },
+  "Premonition": {
+    "effect": "0.85x hit rate from non-Almighty Phys attacks",
+    "element": "pas",
+    "rank": 7
+  },
+  "Primal Force": {
+    "card": "Beelzebub",
+    "cost": 28,
+    "effect": "97% acc, 15% crit",
+    "element": "pie",
+    "hit": 97,
+    "power": 600,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Provoke": {
+    "card": "Nekomata",
+    "cost": 1005,
+    "effect": "60% Rage",
+    "element": "ail",
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Pulinpa": {
+    "cost": 1005,
+    "effect": "60% Panic",
+    "element": "ail",
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Ragnarok": {
+    "cost": 1030,
+    "effect": "99% acc",
+    "element": "fir",
+    "hit": 99,
+    "power": 650,
+    "rank": 9,
+    "target": "One Foe"
+  },
+  "Rainy Death": {
+    "cost": 26,
+    "effect": "87% acc, 35% crit",
+    "element": "str",
+    "hit": 87,
+    "power": 320,
+    "rank": 6,
+    "target": "One Foe"
+  },
+  "Raktapaksha": {
+    "card": "Malachite x4, Pearl x1",
+    "cost": 125,
+    "effect": "95% acc, Dekaja",
+    "element": "win",
+    "hit": 95,
+    "power": 450,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Rampage": {
+    "cost": 18,
+    "effect": "85% acc, 5% crit, x1-3 hits",
+    "element": "str",
+    "hit": 85,
+    "power": 30,
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Re Patra": {
+    "cost": 1003,
+    "effect": "Cures Down",
+    "element": "rec",
+    "rank": 2,
+    "target": "All Allies"
+  },
+  "Rebellion": {
+    "cost": 1010,
+    "effect": "Raises crit rate by 10% for 3 turns",
+    "element": "sup",
+    "rank": 2,
+    "target": "Universal"
+  },
+  "Recarm": {
+    "card": "Lachesis, Nigi Mitama",
+    "cost": 1020,
+    "effect": "Revive with 25% HP",
+    "element": "rec",
+    "rank": 4,
+    "target": "One Ally"
+  },
+  "Regenerate 1": {
+    "card": "Neko Shogun",
+    "effect": "Recover 2% HP per turn",
+    "element": "pas",
+    "rank": 4.5
+  },
+  "Regenerate 2": {
+    "card": "Aquamarine x5",
+    "effect": "Recover 4% HP per turn",
+    "element": "pas",
+    "rank": 5.5
+  },
+  "Regenerate 3": {
+    "card": "Norn",
+    "effect": "Recover 6% HP per turn",
+    "element": "pas",
+    "rank": 6
+  },
+  "Revolution": {
+    "card": "Kali",
+    "cost": 1025,
+    "effect": "Greatly raises crit rate by 20% for 3 turns",
+    "element": "sup",
+    "rank": 3,
+    "target": "Universal"
+  },
+  "Samarecarm": {
+    "card": "Kohryu",
+    "cost": 1050,
+    "effect": "Revive with 100% HP",
+    "element": "rec",
+    "rank": 5,
+    "target": "One Ally"
+  },
+  "Samsara": {
+    "cost": 1060,
+    "effect": "60% insta-kill",
+    "element": "lig",
+    "rank": 9,
+    "target": "All Foes"
+  },
+  "Scarlet Havoc": {
+    "card": "Malachite x4, Sapphire x2",
+    "cost": 120,
+    "effect": "70% acc, 2% crit, x2 Downed Bonus",
+    "element": "sla",
+    "hit": 70,
+    "power": 800,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Sexy Dance": {
+    "card": "Yaksini",
+    "cost": 1012,
+    "effect": "45% Charm",
+    "element": "ail",
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Shadow Hound": {
+    "card": "Malachite x5, Sapphire x1",
+    "cost": 135,
+    "effect": "80% acc, 15% crit",
+    "element": "str",
+    "hit": 80,
+    "power": 2000,
+    "rank": 0,
+    "target": "One Foe",
+    "unique": "Fusion Spell"
+  },
+  "Single Shot": {
+    "cost": 10,
+    "effect": "95% acc, 12% crit",
+    "element": "pie",
+    "hit": 95,
+    "power": 28,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Sonic Punch": {
+    "card": "Chimera",
+    "cost": 12,
+    "effect": "95% acc, 12% crit",
+    "element": "str",
+    "hit": 95,
+    "power": 70,
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Spirit Drain": {
+    "card": "Incubus",
+    "cost": 1005,
+    "effect": "100% acc, Drains 30 SP",
+    "element": "alm",
+    "hit": 100,
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Spirit Leech": {
+    "card": "Incubus",
+    "cost": 1015,
+    "effect": "100% acc, Drains 90 SP",
+    "element": "alm",
+    "hit": 100,
+    "rank": 7,
+    "target": "One Foe"
+  },
+  "Spring of Life": {
+    "effect": "Recover 8% HP per turn",
+    "element": "pas",
+    "rank": 0,
+    "unique": "Trismegistus"
+  },
+  "Summer Dream": {
+    "card": "Malachite x5",
+    "cost": 125,
+    "effect": "Random effect to allies, foes, or universal: HP and SP restored, Knockdown, 100% Rage, Nothing",
+    "element": "ail",
+    "rank": 0,
+    "target": "Universal",
+    "unique": "Fusion Spell"
+  },
+  "Swift Strike": {
+    "card": "Titan",
+    "cost": 21,
+    "effect": "80% acc, 3% crit, x1-2 hits",
+    "element": "str",
+    "hit": 80,
+    "power": 95,
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Tempest Slash": {
+    "card": "Masakado",
+    "cost": 18,
+    "effect": "95% acc, 5% crit, x1-2 hits",
+    "element": "sla",
+    "hit": 95,
+    "power": 350,
+    "rank": 7,
+    "target": "One Foe"
+  },
+  "Tentarafoo": {
+    "cost": 1012,
+    "effect": "45% Panic",
+    "element": "ail",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "The Ken Move": {
+    "cost": 1040,
+    "effect": "Rebellion + Revolution crit up for 3 turns",
+    "element": "sup",
+    "rank": 0,
+    "target": "All Allies"
+  },
+  "Thunder Call": {
+    "card": "Malachite x4, Topaz x1",
+    "cost": 125,
+    "effect": "95% acc, 15% Shock",
+    "element": "ele",
+    "hit": 95,
+    "power": 600,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Thunder Reign": {
+    "cost": 1040,
+    "effect": "99% acc, 20% Shock",
+    "element": "ele",
+    "hit": 99,
+    "power": 650,
+    "rank": 9,
+    "target": "One Foe"
+  },
+  "Torrent Shot": {
+    "card": "Naga Raja",
+    "cost": 17,
+    "effect": "82% acc, 5% crit, x2-3 hits",
+    "element": "pie",
+    "hit": 82,
+    "power": 50,
+    "rank": 4.5,
+    "target": "One Foe"
+  },
+  "Trickster": {
+    "card": "Malachite x2, Pearl x1",
+    "cost": 130,
+    "effect": "Tarunda + Rakunda + Sukunda",
+    "element": "sup",
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Fusion Spell"
+  },
+  "Twin Shot": {
+    "card": "Vasuki",
+    "cost": 19,
+    "effect": "85% acc, 5% crit, x2 hits",
+    "element": "pie",
+    "hit": 85,
+    "power": 100,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Valhalla": {
+    "card": "Malachite x1, Topaz x2",
+    "cost": 120,
+    "effect": "Fully Revives and Heals Party, HP and SP reduced to 1",
+    "element": "sup",
+    "rank": 0,
+    "target": "All Allies",
+    "unique": "Fusion Spell"
+  },
+  "Vicious Strike": {
+    "card": "Arahabaki",
+    "cost": 24,
+    "effect": "90% acc, 8% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 340,
+    "rank": 6,
+    "target": "All Foes"
+  },
+  "Vile Assault": {
+    "card": "Kaiwan",
+    "cost": 22,
+    "effect": "99% acc, 1% crit, Dmg x2 on Downed foes",
+    "element": "pie",
+    "hit": 99,
+    "power": 400,
+    "rank": 5,
+    "target": "One Foe"
+  },
+  "Virus Breath": {
+    "card": "Kingu",
+    "cost": 1025,
+    "effect": "90% acc, 75% Poison",
+    "element": "ail",
+    "hit": 90,
+    "power": 250,
+    "rank": 5,
+    "target": "All Foes"
+  },
+  "Vorpal Blade": {
+    "card": "Susano-o",
+    "cost": 40,
+    "effect": "90% acc, 1% crit, Dmg x2 when Great",
+    "element": "sla",
+    "hit": 90,
+    "power": 500,
+    "rank": 9,
+    "target": "All Foes",
+    "unique": "Multiple"
+  },
+  "Weary Thrust": {
+    "card": "Seiten Taisei",
+    "cost": 18,
+    "effect": "99% acc, 10% crit, Dmg x1.5 when Tired",
+    "element": "str",
+    "hit": 99,
+    "power": 405,
+    "rank": 0,
+    "target": "One Foe",
+    "unique": "Multiple"
+  },
+  "Wind Break": {
+    "card": "Orobas",
+    "cost": 1012,
+    "effect": "Removes Wind resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Zan-ei": {
+    "card": "Pale Rider",
+    "cost": 16,
+    "effect": "80% acc, 3% crit, Dmg x1.5 during New Moon",
+    "element": "sla",
+    "hit": 80,
+    "power": 120,
+    "rank": 3,
+    "target": "One Foe"
+  },
+  "Zio": {
+    "card": "Inugami",
+    "cost": 1004,
+    "effect": "95% acc, 10% Shock",
+    "element": "ele",
+    "hit": 95,
+    "power": 40,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Ziodyne": {
+    "card": "Byakko, Thor",
+    "cost": 1016,
+    "effect": "95% acc, 10% Shock",
+    "element": "ele",
+    "hit": 95,
+    "power": 320,
+    "rank": 5.5,
+    "target": "One Foe"
+  },
+  "Zionga": {
+    "card": "Rakshasa, Loa",
+    "cost": 1008,
+    "effect": "95% acc, 10% Shock",
+    "element": "ele",
+    "hit": 95,
+    "power": 120,
+    "rank": 3.5,
+    "target": "One Foe"
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "Akasha Arts": {
+    "card": "Sandalphon",
+    "cost": 19,
+    "effect": "10% crit, x1-2 hits",
+    "element": "str",
+    "hit": 85,
+    "power": 350,
+    "rank": 7,
+    "target": "All Foes"
+  },
+  "Arrow Rain": {
+    "card": "Garuda",
+    "cost": 19,
+    "effect": "5% crit, x2 hits",
+    "element": "pie",
+    "hit": 80,
+    "power": 130,
+    "rank": 6.5,
+    "target": "All Foes"
+  },
+  "Assault Dive": {
+    "card": "Legion",
+    "cost": 9,
+    "effect": "5% crit",
+    "element": "str",
+    "hit": 88,
+    "power": 90,
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Bash": {
+    "cost": 7,
+    "effect": "5% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 30,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Blade of Fury": {
+    "card": "Chernobog",
+    "cost": 16,
+    "effect": "5% crit, x2-3 hits",
+    "element": "sla",
+    "hit": 82,
+    "power": 100,
+    "rank": 5.5,
+    "target": "All Foes"
+  },
+  "Brave Blade": {
+    "card": "Atavaka",
+    "cost": 20,
+    "effect": "5% crit",
+    "element": "sla",
+    "hit": 99,
+    "power": 550,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Cleave": {
+    "cost": 7,
+    "effect": "10% crit",
+    "element": "sla",
+    "hit": 90,
+    "power": 30,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Cruel Attack": {
+    "card": "Kurama Tengu",
+    "cost": 10,
+    "effect": "1% crit, Dmg x2 on Downed foes",
+    "element": "pie",
+    "hit": 99,
+    "power": 225,
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Deathbound": {
+    "card": "Uriel",
+    "cost": 19,
+    "effect": "20% crit",
+    "element": "sla",
+    "hit": 88,
+    "power": 370,
+    "rank": 6.5,
+    "target": "All Foes"
+  },
+  "Double Fangs": {
+    "card": "Naga",
+    "cost": 9,
+    "effect": "1% crit, x2 hits",
+    "element": "pie",
+    "hit": 85,
+    "power": 20,
+    "rank": 2,
+    "target": "One Foe"
+  },
+  "Elec Break": {
+    "card": "Hokuto Seikun",
+    "cost": 1040,
+    "effect": "Removes Elec resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Fatal End": {
+    "card": "Taraka",
+    "cost": 13,
+    "effect": "10% crit",
+    "element": "sla",
+    "hit": 92,
+    "power": 230,
+    "rank": 4.5,
+    "target": "One Foe"
+  },
+  "Fire Break": {
+    "card": "Succubus",
+    "cost": 1040,
+    "effect": "Removes Fire resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Gale Slash": {
+    "card": "Shiisaa",
+    "cost": 14,
+    "effect": "3% crit",
+    "element": "sla",
+    "hit": 95,
+    "power": 100,
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Getsu-ei": {
+    "card": "Ares, Tam Lin",
+    "cost": 10,
+    "effect": "3% crit, Dmg x1.5 during Full Moon",
+    "element": "sla",
+    "hit": 90,
+    "power": 120,
+    "rank": 3,
+    "target": "One Foe"
+  },
+  "Gigantic Fist": {
+    "card": "Ubelluris",
+    "cost": 12,
+    "effect": "15% crit",
+    "element": "str",
+    "hit": 80,
+    "power": 305,
+    "rank": 5.5,
+    "target": "One Foe"
+  },
+  "God's Hand": {
+    "card": "Metatron",
+    "cost": 14,
+    "effect": "10% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 600,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Heat Wave": {
+    "card": "Dionysus",
+    "cost": 16,
+    "effect": "10% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 280,
+    "rank": 5.5,
+    "target": "All Foes"
+  },
+  "Heaven's Blade": {
+    "cost": 13,
+    "effect": "25% crit",
+    "element": "sla",
+    "hit": 95,
+    "power": 500,
+    "rank": 7,
+    "target": "One Foe",
+    "unique": "Michael"
+  },
+  "Herculean Strike": {
+    "card": "Nata Taishi",
+    "cost": 18,
+    "effect": "3% crit",
+    "element": "str",
+    "hit": 85,
+    "power": 210,
+    "rank": 4,
+    "target": "All Foes"
+  },
+  "Holy Arrow": {
+    "cost": 9,
+    "effect": "5% crit, 25% Charm",
+    "element": "pie",
+    "hit": 92,
+    "power": 60,
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Ice Break": {
+    "card": "Laksmi",
+    "cost": 1040,
+    "effect": "Removes Ice resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Kill Rush": {
+    "card": "Vetala",
+    "cost": 10,
+    "effect": "3% crit, x1-2 hits",
+    "element": "str",
+    "hit": 85,
+    "power": 110,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Maralagidyne": {
+    "card": "Mara",
+    "cost": 1032,
+    "element": "fir",
+    "hit": 90,
+    "power": 370,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Mara"
+  },
+  "Mighty Swing": {
+    "card": "Orthrus",
+    "cost": 10,
+    "effect": "5% crit",
+    "element": "sla",
+    "hit": 95,
+    "power": 220,
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Myriad Arrows": {
+    "card": "Cybele",
+    "cost": 19,
+    "effect": "5% crit, x1-2 hits",
+    "element": "pie",
+    "hit": 87,
+    "power": 140,
+    "rank": 7,
+    "target": "All Foes"
+  },
+  "Poison Arrow": {
+    "cost": 13,
+    "effect": "3% crit, 50% Poison",
+    "element": "pie",
+    "hit": 95,
+    "power": 300,
+    "rank": 5,
+    "target": "One Foe"
+  },
+  "Power Slash": {
+    "card": "Valkyrie",
+    "cost": 10,
+    "effect": "5% crit",
+    "element": "sla",
+    "hit": 92,
+    "power": 88,
+    "rank": 2,
+    "target": "One Foe"
+  },
+  "Pralaya": {
+    "card": "Shiva",
+    "cost": 18,
+    "effect": "30% crit, 50% Fear",
+    "element": "pie",
+    "hit": 95,
+    "power": 600,
+    "rank": 8,
+    "target": "All Foes"
+  },
+  "Primal Force": {
+    "card": "Beelzebub",
+    "cost": 21,
+    "effect": "5% crit",
+    "element": "pie",
+    "hit": 95,
+    "power": 580,
+    "rank": 8,
+    "target": "One Foe"
+  },
+  "Regenerate 1": {
+    "card": "Neko Shogun",
+    "effect": "Recover 2% HP per turn",
+    "element": "pas",
+    "rank": 4.5
+  },
+  "Regenerate 2": {
+    "card": "Aquamarine x5",
+    "effect": "Recover 4% HP per turn",
+    "element": "pas",
+    "rank": 5.5
+  },
+  "Regenerate 3": {
+    "card": "Norn",
+    "effect": "Recover 6% HP per turn",
+    "element": "pas",
+    "rank": 6
+  },
+  "Single Shot": {
+    "cost": 8,
+    "effect": "1% crit",
+    "element": "pie",
+    "hit": 95,
+    "power": 28,
+    "rank": 1.5,
+    "target": "One Foe"
+  },
+  "Sonic Punch": {
+    "card": "Chimera",
+    "cost": 9,
+    "effect": "12% crit",
+    "element": "str",
+    "hit": 95,
+    "power": 70,
+    "rank": 2.5,
+    "target": "One Foe"
+  },
+  "Swift Strike": {
+    "card": "Titan",
+    "cost": 15,
+    "effect": "3% crit, x1-2 hits",
+    "element": "str",
+    "hit": 80,
+    "power": 95,
+    "rank": 3,
+    "target": "All Foes"
+  },
+  "Tempest Slash": {
+    "card": "Masakado",
+    "cost": 13,
+    "effect": "5% crit, x1-2 hits",
+    "element": "sla",
+    "hit": 95,
+    "power": 350,
+    "rank": 7,
+    "target": "One Foe"
+  },
+  "Torrent Shot": {
+    "card": "Naga Raja",
+    "cost": 10,
+    "effect": "5% crit, x2-3 hits",
+    "element": "pie",
+    "hit": 82,
+    "power": 50,
+    "rank": 4.5,
+    "target": "One Foe"
+  },
+  "Twin Shot": {
+    "card": "Vasuki",
+    "cost": 10,
+    "effect": "5% crit, x2 hits",
+    "element": "pie",
+    "hit": 85,
+    "power": 100,
+    "rank": 3.5,
+    "target": "One Foe"
+  },
+  "Vicious Strike": {
+    "card": "Arahabaki",
+    "cost": 19,
+    "effect": "8% crit",
+    "element": "str",
+    "hit": 90,
+    "power": 340,
+    "rank": 6,
+    "target": "All Foes"
+  },
+  "Vile Assault": {
+    "card": "Kaiwan",
+    "cost": 12,
+    "effect": "1% crit, Dmg x2 on Downed foes",
+    "element": "pie",
+    "hit": 99,
+    "power": 295,
+    "rank": 5,
+    "target": "One Foe"
+  },
+  "Vorpal Blade": {
+    "card": "Susano-o",
+    "cost": 21,
+    "effect": "5% crit, Dmg x2 when Great",
+    "element": "sla",
+    "hit": 99,
+    "power": 500,
+    "rank": 0,
+    "target": "All Foes",
+    "unique": "Multiple"
+  },
+  "Weary Thrust": {
+    "card": "Seiten Taisei",
+    "cost": 13,
+    "effect": "10% crit, Dmg x1.5 when Tired",
+    "element": "str",
+    "hit": 99,
+    "power": 405,
+    "rank": 0,
+    "target": "One Foe",
+    "unique": "Multiple"
+  },
+  "Wind Break": {
+    "card": "Orobas",
+    "cost": 1040,
+    "effect": "Removes Wind resistance for 3 turns",
+    "element": "sup",
+    "rank": 4,
+    "target": "One Foe"
+  },
+  "Zan-ei": {
+    "card": "Pale Rider",
+    "cost": 10,
+    "effect": "3% crit, Dmg x1.5 during New Moon",
+    "element": "sla",
+    "hit": 80,
+    "power": 120,
+    "rank": 3,
+    "target": "One Foe"
+  }
+}

@@ -1,0 +1,8 @@
+[
+  { "game": "p3", "module": "p3", "titles": ["Persona 3"] },
+  { "game": "p3f", "module": "p3", "titles": ["Persona 3 FES"] },
+  { "game": "p3n", "module": "p3", "titles": ["Persona 3 Nightfall"]},
+  { "game": "p3a", "module": "p3", "titles": ["Persona 3 FES: The Answer"] },
+  { "game": "p3na", "module": "p3", "titles": ["Persona 3 Nightfall: The Answer"]},
+  { "game": "p3p", "module": "p3", "titles": ["Persona 3 Portable"] }
+]
