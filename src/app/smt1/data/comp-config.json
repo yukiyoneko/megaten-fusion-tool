@@ -1,0 +1,80 @@
+{
+  "baseAtks": [
+    "NAtk",
+    "NMin",
+    "NMax",
+    "PAtk",
+    "PHit",
+    "Def",
+    "Eva",
+    "MAtk",
+    "MHit"
+  ],
+  "baseStats": [
+    "HP",
+    "MP",
+    "CP",
+    "St",
+    "In",
+    "Ma",
+    "Vi",
+    "Ag",
+    "Lu"
+  ],
+  "resistCodes": {
+    "d": 1100,
+    "r": 2100,
+    "R": 2050,
+    "n": 3100,
+    "1": 4012.5,
+    "2": 4025,
+    "3": 4037.5,
+    "s": 4050,
+    "5": 4062.5,
+    "6": 4075,
+    "7": 4087.5,
+    "-": 5100,
+    "w": 6150,
+    "W": 6200,
+    "x": 6250,
+    "X": 6300
+  },
+  "resistElems": [
+    "sword",
+    "gun",
+    "fire",
+    "ice",
+    "elec",
+    "force",
+    "nerve",
+    "expel",
+    "death",
+    "curse",
+    "bind",
+    "rush",
+    "punch",
+    "flying"
+  ],
+  "skillElems": [
+    "almighty",
+    "energy",
+    "recovery",
+    "support",
+    "special"
+  ],
+  "species": [
+    ["DEITIES", "Deity", "Megami"],
+    ["ICONS", "Tenma", "Kishin", "Femme", "Vile"],
+    ["NETHERS", "Tyrant", "Yoma", "Night", "Fairy"],
+    ["AERIALS", "Seraph", "Divine", "Fallen"],
+    ["DRAGONS", "Dragon", "Snake", "Drake"],
+    ["AVIANS", "Avian", "Flight", "Raptor"],
+    ["BEASTS", "Avatar", "Holy", "Beast", "Wilder"],
+    ["BRUTES", "Touki", "Brute", "Jirae", "Jaki"],
+    ["ELEMENTS", "Element"],
+    ["SPIRITS", "Haunt", "Spirit", "Undead"],
+    ["FOULS", "Foul"],
+    ["HUMANS", "Therian", "Messian", "Gaean", "Fiend"],
+    ["MACHINES", "Machine"]
+  ]
+}

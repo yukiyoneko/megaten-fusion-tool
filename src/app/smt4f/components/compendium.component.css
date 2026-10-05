@@ -1,0 +1,99 @@
+.smt4 div.element-icon.thr,
+.smt4 div.element-icon.phy { background-image: var(--icon-elem-phy); }
+.smt4 div.element-icon.cla { background-image: var(--icon-elem-gun); }
+.smt4 div.element-icon.bit { background-image: var(--icon-elem-ear); }
+.smt4 div.element-icon.wea { background-image: var(--icon-elem-swo); }
+.smt4 div.element-icon.mou { background-image: var(--icon-weapon-rus); }
+.smt4 div.element-icon.gun { background-image: var(--icon-elem-gun); }
+.smt4 div.element-icon.fir { background-image: var(--icon-elem-fir); }
+.smt4 div.element-icon.ice { background-image: var(--icon-elem-ice); }
+.smt4 div.element-icon.ele { background-image: var(--icon-elem-ele); }
+.smt4 div.element-icon.for { background-image: var(--icon-elem-for); }
+.smt4 div.element-icon.win { background-image: var(--icon-elem-win); }
+.smt4 div.element-icon.eye { background-image: var(--icon-elem-per-alm); }
+.smt4 div.element-icon.exp,
+.smt4 div.element-icon.lig { background-image: var(--icon-elem-lig); }
+.smt4 div.element-icon.dea,
+.smt4 div.element-icon.mys,
+.smt4 div.element-icon.rui,
+.smt4 div.element-icon.dar { background-image: var(--icon-elem-smt-dar); }
+.smt4 div.element-icon.ail,
+.smt4 div.element-icon.min { background-image: var(--icon-elem-per-dar); }
+.smt4 div.element-icon.cur { background-image: var(--icon-elem-poison); }
+.smt4 div.element-icon.ner { background-image: var(--icon-elem-paralyze); }
+.smt4 div.element-icon.rec { background-image: var(--icon-elem-smt-rec); }
+.smt4 div.element-icon.alp,
+.smt4 div.element-icon.alm { background-image: var(--icon-elem-smt-alm); }
+.smt4 div.element-icon.com,
+.smt4 div.element-icon.sup { background-image: var(--icon-elem-smt-sup); }
+.smt4 div.element-icon.pas { background-image: var(--icon-elem-smt-pas); }
+.smt4 div.element-icon.sab { background-image: var(--icon-elem-smt-sab); }
+.smt4 div.element-icon.aut,
+.smt4 div.element-icon.rac,
+.smt4 div.element-icon.inv,
+.smt4 div.element-icon.tal,
+.smt4 div.element-icon.inn { background-image: var(--icon-elem-smt-inn); }
+.smt4 div.element-icon.oth,
+.smt4 div.element-icon.non,
+.smt4 div.element-icon.spe { background-image: var(--icon-elem-smt-spe); }
+.smt4 div.element-icon.lif { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Ctext fill='violet' x='12' y='18' text-anchor='middle'%3EHP%3C/text%3E%3C/svg%3E"); }
+.smt4 div.element-icon.man { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Ctext fill='cyan' x='12' y='18' text-anchor='middle'%3EMP%3C/text%3E%3C/svg%3E"); }
+.smt4 div.element-icon.mai { background-image: var(--icon-weapon-whi); }
+.smt4 div.element-icon.non { background-image: none }
+
+.smt4 div.ailment-icon.fre { background-image: var(--icon-elem-ice); }
+.smt4 div.ailment-icon.sho { background-image: var(--icon-elem-ele); }
+.smt4 div.ailment-icon.ham { background-image: var(--icon-elem-lig); }
+.smt4 div.ailment-icon.mud { background-image: var(--icon-elem-smt-dar); }
+.smt4 div.ailment-icon.poi { background-image: var(--icon-elem-poison); }
+.smt4 div.ailment-icon.bin,
+.smt4 div.ailment-icon.par { background-image: var(--icon-elem-paralyze); }
+.smt4 div.ailment-icon.sto { background-image: var(--icon-ailment-stone); }
+.smt4 div.ailment-icon.str { background-image: var(--icon-elem-smt-spe); }
+.smt4 div.ailment-icon.sle { background-image: var(--icon-ailment-sleep); }
+.smt4 div.ailment-icon.cha { background-image: var(--icon-ailment-charm); }
+.smt4 div.ailment-icon.mut { background-image: var(--icon-ailment-mute); }
+.smt4 div.ailment-icon.bom { background-image: var(--icon-elem-nuk); }
+.smt4 div.ailment-icon.sic,
+.smt4 div.ailment-icon.fea { background-image: var(--icon-ailment-sick); }
+.smt4 div.ailment-icon.rag { background-image: var(--icon-ailment-rage); }
+.smt4 div.ailment-icon.pan { background-image: var(--icon-elem-panic); }
+.smt4 div.ailment-icon.daz { background-image: var(--icon-ailment-enervation); }
+.smt4 div.ailment-icon.sea { background-image: var(--icon-elem-bind); }
+.smt4 div.ailment-icon.mir { background-image: var(--icon-ailment-mirage); }
+
+.smt4 td.affinity-9 { color: red; }
+.smt4 td.affinity-8 { color: red; }
+.smt4 td.affinity-7 { color: orangered; }
+.smt4 td.affinity-6 { color: tomato; }
+.smt4 td.affinity-5 { color: coral; }
+.smt4 td.affinity-4 { color: darkorange; }
+.smt4 td.affinity-3 { color: orange; }
+.smt4 td.affinity-2 { color: lightsalmon; }
+.smt4 td.affinity-1 { color: gold; }
+.smt4 td.affinity0 { color: transparent; }
+.smt4 td.affinity1 { color: lawngreen; }
+.smt4 td.affinity2 { color: lime; }
+.smt4 td.affinity3 { color: springgreen; }
+.smt4 td.affinity4 { color: mediumspringgreen; }
+.smt4 td.affinity5 { color: limegreen; }
+.smt4 td.affinity6 { color: mediumseagreen; }
+.smt4 td.affinity7 { color: seagreen; }
+.smt4 td.affinity8 { color: forestgreen; }
+.smt4 td.affinity9 { color: forestgreen; }
+
+.smt4 .align-ll, .align-nl, .align-dl { color: cyan; }
+.smt4 .align-lc, .align-nc, .align-dc { color: tomato; }
+.smt4 .align-ll:after, .align-ln:after, .align-lc:after { content: "↑"; }
+.smt4 .align-dl:after, .align-dn:after, .align-dc:after { content: "↓"; }
+
+.smt3 th.title, .smt3 th.nav.active, .smt3 th.nav.active a { color: white; background-color: #3b3a62; }
+.smtsj th.title, .smtsj th.nav.active, .smtsj th.nav.active a { color: white; background-color: #200470; }
+.smt4f th.title, .smt4f th.nav.active, .smt4f th.nav.active a { background-color: white; color: black; }
+.smt5 th.title, .smt5 th.nav.active, .smt5 th.nav.active a { background-color: #363361; color: white; }
+.sh2 th.title, .sh2 th.nav.active, .sh2 th.nav.active a { background-color: #693cbe; color: white; }
+.krch th.title, .krch th.nav.active, .krch th.nav.active a { color: black; background-color: #856363; }
+.krao th.title, .krao th.nav.active, .krao th.nav.active a { color: white; background-color: #8e283d; }
+.ds1 th.title, .ds1 th.nav.active, .ds1 th.nav.active a { color: white; background-color: #e83145; }
+.dso th.title, .dso th.nav.active, .dso th.nav.active a { color: white; background-color: #e83145; }
+.ds2 th.title, .ds2 th.nav.active, .ds2 th.nav.active a { color: white; background-color: #0078e8; }

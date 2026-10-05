@@ -1,0 +1,34 @@
+{
+  "Amaterasu": {
+    "fusion": "normal",
+    "pairs": ["Susano-o x Tsukuyomi"]
+  },
+  "Susano-o": {
+    "fusion": "normal",
+    "pairs": ["Amaterasu x Tsukuyomi"]
+  },
+  "Tsukuyomi": {
+    "fusion": "normal",
+    "pairs": ["Amaterasu x Susano-o"]
+  },
+  "Baal": {
+    "fusion": "normal",
+    "pairs": ["Anat x Mot"]
+  },
+  "Shiva": {
+    "fusion": "normal",
+    "pairs": ["Barong x Rangda"]
+  },
+  "Yoshitsune": {
+    "fusion": "shift",
+    "prereq": "Phase shift only"
+  },
+  "Alice": {
+    "fusion": "shift",
+    "prereq": "Phase shift only"
+  },
+  "Jeanne D'Arc": {
+    "fusion": "shift",
+    "prereq": "Phase shift only"
+  }
+}

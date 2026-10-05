@@ -1,0 +1,219 @@
+/* Universal resistances */
+.perps2 div.element-icon.cut,
+.perps2 div.element-icon.sla { background-image: var(--icon-elem-swo); }
+.perps2 div.element-icon.phy,
+.perps2 div.element-icon.bas,
+.perps2 div.element-icon.str { background-image: var(--icon-elem-phy); }
+.perps2 div.element-icon.gun,
+.perps2 div.element-icon.sta,
+.perps2 div.element-icon.pie { background-image: var(--icon-elem-gun); }
+.perps2 div.ailment-icon.bur,
+.perps2 div.element-icon.fir { background-image: var(--icon-elem-fir); }
+.perps2 div.ailment-icon.fre,
+.perps2 div.element-icon.ice { background-image: var(--icon-elem-ice); }
+.perps2 div.ailment-icon.sho,
+.perps2 div.element-icon.ele { background-image: var(--icon-elem-ele); }
+.perps2 div.element-icon.win { background-image: var(--icon-elem-win); }
+.perps2 div.element-icon.psy { background-image: var(--icon-elem-psy); }
+.perps2 div.element-icon.nuk { background-image: var(--icon-elem-nuk); }
+.perps2 div.element-icon.ble,
+.perps2 div.ailment-icon.ham,
+.perps2 div.ailment-icon.ko,
+.perps2 div.element-icon.lig { background-image: var(--icon-elem-lig); }
+.perps2 div.element-icon.cur,
+.perps2 div.ailment-icon.mud,
+.perps2 div.element-icon.dar { background-image: var(--icon-elem-per-dar); }
+.perps2 div.element-icon.ail { background-image: var(--icon-elem-per-ail); }
+.perps2 div.element-icon.rec { background-image: var(--icon-elem-per-rec); }
+.perps2 div.element-icon.alm { background-image: var(--icon-elem-per-alm); }
+.perps2 div.element-icon.spa,
+.perps2 div.element-icon.spb,
+.perps2 div.element-icon.tra,
+.perps2 div.element-icon.nav,
+.perps2 div.element-icon.spe { background-image: var(--icon-elem-per-tra); }
+.perps2 div.element-icon.sup { background-image: var(--icon-elem-per-sup); }
+.perps2 div.element-icon.pas { background-image: var(--icon-elem-per-pas); }
+
+.perps2 div.ailment-icon.cha { background-image: var(--icon-ailment-charm); }
+.perps2 div.ailment-icon.poi { background-image: var(--icon-elem-poison); }
+.perps2 div.ailment-icon.dis { background-image: var(--icon-ailment-distress); }
+.perps2 div.ailment-icon.pan,
+.perps2 div.ailment-icon.con { background-image: var(--icon-elem-panic); }
+.perps2 div.ailment-icon.fea { background-image: var(--icon-ailment-fear); }
+.perps2 div.ailment-icon.rag { background-image: var(--icon-ailment-rage); }
+.perps2 div.ailment-icon.dow,
+.perps2 div.ailment-icon.diz { background-image: var(--icon-ailment-down); }
+.p5 div.ailment-icon.diz { background-image: var(--icon-ailment-dizzy); }
+.p5 div.ailment-icon.bra { background-image: var(--icon-ailment-brainwash); }
+.p5 div.ailment-icon.oth { background-image: var(--icon-elem-smt-spe); }
+.p5 div.ailment-icon.des,
+.perps2 div.ailment-icon.exh { background-image: var(--icon-ailment-exhaustion); }
+.perps2 div.ailment-icon.ene { background-image: var(--icon-ailment-enervation); }
+.perps2 div.ailment-icon.mut { background-image: var(--icon-ailment-mute); }
+.perps2 div.ailment-icon.sle { background-image: var(--icon-ailment-sleep); }
+.perps2 div.ailment-icon.hex,
+.perps2 div.ailment-icon.cur { background-image: var(--icon-elem-hex); }
+.perps2 div.ailment-icon.par { background-image: var(--icon-elem-paralyze); }
+.perps2 div.ailment-icon.sbi { background-image: var(--icon-elem-s-bind); }
+.perps2 div.ailment-icon.mbi { background-image: var(--icon-elem-m-bind); }
+.perps2 div.ailment-icon.abi { background-image: var(--icon-elem-a-bind); }
+.perps2 div.ailment-icon.sto { background-image: var(--icon-ailment-stone); }
+
+/* Individual inherit types */
+.p3 div.element-icon.i28716 { background-image: var(--icon-elem-swo); }
+.p3 div.element-icon.i28717 { background-image: var(--icon-elem-phy); }
+.p3 div.element-icon.i28718 { background-image: var(--icon-elem-gun); }
+.p3 div.element-icon.i30972 { background-image: var(--icon-elem-fir); }
+.p3 div.element-icon.i29948 { background-image: var(--icon-elem-ice); }
+.p3 div.element-icon.i29436 { background-image: var(--icon-elem-ele); }
+.p3 div.element-icon.i29180 { background-image: var(--icon-elem-win); }
+.p3 div.element-icon.i4012 { background-image: var(--icon-elem-lig); }
+.p3 div.element-icon.i32624 { background-image: var(--icon-elem-per-dar); }
+.p3 div.element-icon.i3956 { background-image: var(--icon-elem-per-ail); }
+.p3 div.element-icon.i4093 { background-image: var(--icon-elem-per-rec); }
+.p3 div.element-icon.i32764 { background-image: var(--icon-elem-per-alm); }
+.p3 div.element-icon.i4092 { background-image: var(--icon-elem-per-tra); }
+
+.p3 th.title, .p3 th.nav.active, .p3 th.nav.active a {
+  color: black;
+  background-color: #4372AA;
+}
+  
+.p3r div.inherit-icon.i3583 { background-image: var(--icon-elem-swo), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i3585 { background-image: var(--icon-elem-per-tra), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i2047 { background-image: var(--icon-elem-phy), var(--icon-elem-gun); }
+.p3r div.inherit-icon.i3615 { background-image: var(--icon-elem-per-rec), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i3071 { background-image: var(--icon-elem-swo), var(--icon-elem-gun); }
+.p3r div.inherit-icon.i4065 { background-image: var(--icon-elem-phy), var(--icon-elem-per-alm); }
+.p3r div.inherit-icon.i3967 { background-image: var(--icon-elem-fir), var(--icon-elem-fir); }
+.p3r div.inherit-icon.i3843 { background-image: var(--icon-elem-fir), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i3955 { background-image: var(--icon-elem-fir), var(--icon-elem-lig); }
+.p3r div.inherit-icon.i3949 { background-image: var(--icon-elem-fir), var(--icon-elem-per-dar); }
+.p3r div.inherit-icon.i3839 { background-image: var(--icon-elem-ice), var(--icon-elem-ice); }
+.p3r div.inherit-icon.i3715 { background-image: var(--icon-elem-ice), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i3827 { background-image: var(--icon-elem-ice), var(--icon-elem-lig); }
+.p3r div.inherit-icon.i3821 { background-image: var(--icon-elem-ice), var(--icon-elem-per-dar); }
+.p3r div.inherit-icon.i4063 { background-image: var(--icon-elem-ele), var(--icon-elem-ele); }
+.p3r div.inherit-icon.i3651 { background-image: var(--icon-elem-ele), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i4051 { background-image: var(--icon-elem-ele), var(--icon-elem-lig); }
+.p3r div.inherit-icon.i4045 { background-image: var(--icon-elem-ele), var(--icon-elem-per-dar); }
+.p3r div.inherit-icon.i4031 { background-image: var(--icon-elem-win), var(--icon-elem-win); }
+.p3r div.inherit-icon.i3619 { background-image: var(--icon-elem-win), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i4019 { background-image: var(--icon-elem-win), var(--icon-elem-lig); }
+.p3r div.inherit-icon.i4013 { background-image: var(--icon-elem-win), var(--icon-elem-per-dar); }
+.p3r div.inherit-icon.i4083 { background-image: var(--icon-elem-lig), var(--icon-elem-lig); }
+.p3r div.inherit-icon.i3603 { background-image: var(--icon-elem-lig), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i4077 { background-image: var(--icon-elem-per-dar), var(--icon-elem-per-dar); }
+.p3r div.inherit-icon.i3597 { background-image: var(--icon-elem-per-dar), var(--icon-elem-phy); }
+.p3r div.inherit-icon.i493 { background-image: var(--icon-elem-per-ail), var(--icon-elem-per-alm); }
+.p3r div.inherit-icon.i499 { background-image: var(--icon-elem-per-rec), var(--icon-elem-per-alm); }
+.p3r div.inherit-icon.i4095 { background-image: var(--icon-elem-per-alm), var(--icon-elem-per-alm); }
+.p3r div.inherit-icon.i511 { background-image: var(--icon-elem-per-tra), var(--icon-elem-per-alm); }
+.p3r div.inherit-icon.i4088 { background-image: var(--icon-elem-smt-spe), var(--icon-elem-smt-spe); }
+
+.p3r div.inherit-icon {
+  background-position: calc(50% - 10px) center, calc(50% + 10px) center;
+}
+
+.p3r th.title, .p3r th.nav.active, .p3r th.nav.active a {
+  color: black;
+  background-color: #4372AA;
+}
+
+.p4 div.inherit-icon.i2166 { background-image: var(--icon-elem-phy); }
+.p4 div.inherit-icon.i3582 { background-image: var(--icon-elem-fir); }
+.p4 div.inherit-icon.i3070 { background-image: var(--icon-elem-ice); }
+.p4 div.inherit-icon.i3966 { background-image: var(--icon-elem-ele); }
+.p4 div.inherit-icon.i3838 { background-image: var(--icon-elem-win); }
+.p4 div.inherit-icon.i2006 { background-image: var(--icon-elem-lig); }
+.p4 div.inherit-icon.i1978 { background-image: var(--icon-elem-per-dar); }
+.p4 div.inherit-icon.i1979 { background-image: var(--icon-elem-per-ail); }
+.p4 div.inherit-icon.i2014 { background-image: var(--icon-elem-per-rec); }
+.p4 div.inherit-icon.i4094 { background-image: var(--icon-elem-per-alm); }
+.p4 div.inherit-icon.i4095 { background-image: var(--icon-elem-per-sup); }
+
+.p4 th.title, .p4 th.nav.active, .p4 th.nav.active a {
+  color: black;
+  background-color: #ffe600;
+}
+  
+.p5 div.inherit-icon.i3075 { background-image: var(--icon-elem-phy); }
+.p5 div.inherit-icon.i3839 { background-image: var(--icon-elem-fir); }
+.p5 div.inherit-icon.i3583 { background-image: var(--icon-elem-ice); }
+.p5 div.inherit-icon.i4031 { background-image: var(--icon-elem-ele); }
+.p5 div.inherit-icon.i3967 { background-image: var(--icon-elem-win); }
+.p5 div.inherit-icon.i4079 { background-image: var(--icon-elem-psy); }
+.p5 div.inherit-icon.i4063 { background-image: var(--icon-elem-nuk); }
+.p5 div.inherit-icon.i1017 { background-image: var(--icon-elem-lig); }
+.p5 div.inherit-icon.i1014 { background-image: var(--icon-elem-per-dar); }
+.p5 div.inherit-icon.i4086 { background-image: var(--icon-elem-per-ail); }
+.p5 div.inherit-icon.i1019 { background-image: var(--icon-elem-per-rec); }
+.p5 div.inherit-icon.i4095 { background-image: var(--icon-elem-per-alm); }
+.p5 div.inherit-icon.i0 { background-image: var(--icon-elem-per-pas); }
+
+.p5 th.title, .p5 th.nav.active, .p5 th.nav.active a {
+  color: white;
+  background-color: #f41000;
+}
+
+.p5t th.title, .p5t th.nav.active, .p5t th.nav.active a {
+  color: white;
+  background-color: #f41000;
+}
+
+.pq div.inherit-icon.i3584 { background-image: var(--icon-elem-phy), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i3591 { background-image: var(--icon-elem-phy), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i376 { background-image: var(--icon-elem-fir), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i383 { background-image: var(--icon-elem-fir), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i3960 { background-image: var(--icon-elem-fir), var(--icon-elem-phy); }
+.pq div.inherit-icon.i3967 { background-image: var(--icon-elem-fir), var(--icon-elem-fir); }
+.pq div.inherit-icon.i248 { background-image: var(--icon-elem-ice), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i255 { background-image: var(--icon-elem-ice), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i3832 { background-image: var(--icon-elem-ice), var(--icon-elem-phy); }
+.pq div.inherit-icon.i3839 { background-image: var(--icon-elem-ice), var(--icon-elem-ice); }
+.pq div.inherit-icon.i472 { background-image: var(--icon-elem-ele), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i479 { background-image: var(--icon-elem-ele), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i4056 { background-image: var(--icon-elem-ele), var(--icon-elem-phy); }
+.pq div.inherit-icon.i4063 { background-image: var(--icon-elem-ele), var(--icon-elem-ele); }
+.pq div.inherit-icon.i440 { background-image: var(--icon-elem-win), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i447 { background-image: var(--icon-elem-win), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i4024 { background-image: var(--icon-elem-win), var(--icon-elem-phy); }
+.pq div.inherit-icon.i4031 { background-image: var(--icon-elem-win), var(--icon-elem-win); }
+.pq div.inherit-icon.i496 { background-image: var(--icon-elem-lig), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i503 { background-image: var(--icon-elem-lig), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i4080 { background-image: var(--icon-elem-lig), var(--icon-elem-phy); }
+.pq div.inherit-icon.i4087 { background-image: var(--icon-elem-lig), var(--icon-elem-lig); }
+.pq div.inherit-icon.i488 { background-image: var(--icon-elem-per-dar), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i495 { background-image: var(--icon-elem-per-dar), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i4072 { background-image: var(--icon-elem-per-dar), var(--icon-elem-phy); }
+.pq div.inherit-icon.i4079 { background-image: var(--icon-elem-per-dar), var(--icon-elem-per-dar); }
+.pq div.inherit-icon.i504 { background-image: var(--icon-elem-per-alm), var(--icon-elem-per-tra); }
+.pq div.inherit-icon.i511 { background-image: var(--icon-elem-per-alm), var(--icon-elem-per-rec); }
+.pq div.inherit-icon.i4088 { background-image: var(--icon-elem-per-alm), var(--icon-elem-phy); }
+.pq div.inherit-icon.i4095 { background-image: var(--icon-elem-per-alm), var(--icon-elem-per-alm); }
+
+.pq th.title, .pq th.nav.active, .pq th.nav.active a {
+  color: black;
+  background-color: #AA1CA9;
+}
+
+.pq div.inherit-icon {
+  background-position: calc(50% - 10px) center, calc(50% + 10px) center;
+}
+
+.pq2 div.inherit-icon.i2055 { background-image: var(--icon-elem-phy); }
+.pq2 div.inherit-icon.i3583 { background-image: var(--icon-elem-fir); }
+.pq2 div.inherit-icon.i3071 { background-image: var(--icon-elem-ice); }
+.pq2 div.inherit-icon.i3967 { background-image: var(--icon-elem-ele); }
+.pq2 div.inherit-icon.i3839 { background-image: var(--icon-elem-win); }
+.pq2 div.inherit-icon.i4063 { background-image: var(--icon-elem-psy); }
+.pq2 div.inherit-icon.i4031 { background-image: var(--icon-elem-nuk); }
+.pq2 div.inherit-icon.i4087 { background-image: var(--icon-elem-lig); }
+.pq2 div.inherit-icon.i4079 { background-image: var(--icon-elem-per-dar); }
+.pq2 div.inherit-icon.i4095 { background-image: var(--icon-elem-per-alm); }
+.pq2 div.inherit-icon.i2047 { background-image: var(--icon-elem-per-sup); }
+
+.pq2 th.title, .pq2 th.nav.active, .pq2 th.nav.active a {
+  color: white;
+  background-color: #ff4800;
+}

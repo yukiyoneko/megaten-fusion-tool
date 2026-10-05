@@ -1,0 +1,153 @@
+.mib div.element-icon.s1h { background-image: var(--icon-elem-swo); }
+.mib div.element-icon.sla,
+.mib div.element-icon.s2h { background-image: var(--icon-weapon-s2h); }
+.mib div.element-icon.spr { background-image: var(--icon-weapon-spr); }
+.mib div.element-icon.axe { background-image: var(--icon-weapon-axe); }
+.mib div.element-icon.whi { background-image: var(--icon-weapon-whi); }
+.mib div.element-icon.thr { background-image: var(--icon-weapon-thr); }
+.mib div.element-icon.arr { background-image: var(--icon-weapon-arr); }
+.mib div.element-icon.str,
+.mib div.element-icon.fis { background-image: var(--icon-weapon-fis); }
+.mib div.element-icon.hgn { background-image: var(--icon-weapon-han); }
+.mib div.element-icon.agn { background-image: var(--icon-weapon-aut); }
+.mib div.element-icon.sgn { background-image: var(--icon-weapon-sho); }
+.mib div.element-icon.gun,
+.mib div.element-icon.rif { background-image: var(--icon-weapon-rif); }
+.mib div.element-icon.hav,
+.mib div.element-icon.tec { background-image: var(--icon-elem-phy); }
+.mib div.element-icon.rus { background-image: var(--icon-weapon-rus); }
+
+.mib div.element-icon.naoya   { background-image: url('../../../assets/images/party-sprites.svg#naoya'); }
+.mib div.element-icon.maki    { background-image: url('../../../assets/images/party-sprites.svg#maki'); }
+.mib div.element-icon.mark    { background-image: url('../../../assets/images/party-sprites.svg#mark'); }
+.mib div.element-icon.nanjo   { background-image: url('../../../assets/images/party-sprites.svg#nanjo'); }
+.mib div.element-icon.brown   { background-image: url('../../../assets/images/party-sprites.svg#brown'); }
+.mib div.element-icon.elly    { background-image: url('../../../assets/images/party-sprites.svg#elly'); }
+.mib div.element-icon.ayase   { background-image: url('../../../assets/images/party-sprites.svg#ayase'); }
+.mib div.element-icon.yukino  { background-image: url('../../../assets/images/party-sprites.svg#yukino'); }
+.mib div.element-icon.reiji   { background-image: url('../../../assets/images/party-sprites.svg#reiji'); }
+.mib div.element-icon.tatsuya { background-image: url('../../../assets/images/party-sprites.svg#tatsuya'); }
+.mib div.element-icon.eikichi { background-image: url('../../../assets/images/party-sprites.svg#eikichi'); }
+.mib div.element-icon.lisa    { background-image: url('../../../assets/images/party-sprites.svg#lisa'); }
+.mib div.element-icon.maya    { background-image: url('../../../assets/images/party-sprites.svg#maya'); }
+.mib div.element-icon.jun     { background-image: url('../../../assets/images/party-sprites.svg#jun'); }
+.mib div.element-icon.ulala   { background-image: url('../../../assets/images/party-sprites.svg#ulala'); }
+.mib div.element-icon.katsuya { background-image: url('../../../assets/images/party-sprites.svg#katsuya'); }
+.mib div.element-icon.baofu   { background-image: url('../../../assets/images/party-sprites.svg#baofu'); }
+
+.mib td.affinity14 { color: cyan; }
+.mib td.affinity13 { color: limegreen; }
+.mib td.affinity11 { color: orange; }
+
+.p1 div.element-icon.i14,
+.p2 div.element-icon.i5,
+.mib div.element-icon.fir { background-image: var(--icon-elem-fir); }
+.p1 div.element-icon.i15,
+.mib div.element-icon.ice { background-image: var(--icon-elem-ice); }
+.p2 div.element-icon.i6,
+.mib div.element-icon.wat { background-image: var(--icon-elem-wat); }
+.p1 div.element-icon.i16,
+.p2 div.element-icon.i7,
+.mib div.element-icon.win { background-image: var(--icon-elem-win); }
+.p1 div.element-icon.i17,
+.p2 div.element-icon.i8,
+.mib div.element-icon.ear { background-image: var(--icon-elem-ear); }
+.p1 div.element-icon.i18,
+.mib div.element-icon.ele { background-image: var(--icon-elem-ele); }
+.p1 div.element-icon.i19,
+.mib div.element-icon.nuk { background-image: var(--icon-elem-nuk); }
+.p1 div.element-icon.i20,
+.mib div.element-icon.bla { background-image: var(--icon-elem-for); }
+.p1 div.element-icon.i21,
+.mib div.element-icon.gra { background-image: var(--icon-elem-psy); }
+
+.p1 div.element-icon.i22,
+.mib div.element-icon.lig,
+.mib div.element-icon.exp { background-image: var(--icon-elem-lig); }
+.p1 div.element-icon.i23,
+.mib div.element-icon.mir { background-image: var(--icon-elem-smt-alm); }
+.p1 div.element-icon.i24,
+.mib div.element-icon.dar,
+.mib div.element-icon.dea { background-image: var(--icon-elem-smt-dar); }
+.p1 div.element-icon.i25,
+.mib div.element-icon.cur { background-image: var(--icon-elem-paralyze); }
+.mib div.element-icon.min { background-image: var(--icon-elem-panic); }
+.p1 div.element-icon.i26,
+.mib div.element-icon.ner { background-image: var(--icon-elem-per-ail); }
+.p1 div.element-icon.i28,
+.mib div.element-icon.ail,
+.mib div.element-icon.occ { background-image: var(--icon-elem-per-dar); }
+
+.p1 div.element-icon.i29,
+.mib div.element-icon.rec,
+.mib div.element-icon.ble { background-image: var(--icon-elem-per-rec); }
+.p1 div.element-icon.i30,
+.mib div.element-icon.sup,
+.mib div.element-icon.pra { background-image: var(--icon-elem-per-sup); }
+
+.p1 div.element-icon.i32,
+.p2 div.element-icon.i17,
+.mib div.element-icon.spe,
+.mib div.element-icon.alm { background-image: var(--icon-elem-per-alm); }
+
+.p1 div.target-icon {
+  height: 52px;
+  background-size: 52px;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+}
+
+.p1 div.target-icon.a101000 { background-image: url('../../../assets/images/target-sprites.svg#a101000'); }
+.p1 div.target-icon.a101010 { background-image: url('../../../assets/images/target-sprites.svg#a101010'); }
+.p1 div.target-icon.a201020 { background-image: url('../../../assets/images/target-sprites.svg#a201020'); }
+.p1 div.target-icon.a202010 { background-image: url('../../../assets/images/target-sprites.svg#a202010'); }
+.p1 div.target-icon.a202020 { background-image: url('../../../assets/images/target-sprites.svg#a202020'); }
+.p1 div.target-icon.a303030 { background-image: url('../../../assets/images/target-sprites.svg#a303030'); }
+.p1 div.target-icon.a303132 { background-image: url('../../../assets/images/target-sprites.svg#a303132'); }
+.p1 div.target-icon.a505050 { background-image: url('../../../assets/images/target-sprites.svg#a505050'); }
+.p1 div.target-icon.a540000 { background-image: url('../../../assets/images/target-sprites.svg#a540000'); }
+.p1 div.target-icon.a606060 { background-image: url('../../../assets/images/target-sprites.svg#a606060'); }
+.p1 div.target-icon.a636363 { background-image: url('../../../assets/images/target-sprites.svg#a636363'); }
+.p1 div.target-icon.a727272 { background-image: url('../../../assets/images/target-sprites.svg#a727272'); }
+.p1 div.target-icon.a904010 { background-image: url('../../../assets/images/target-sprites.svg#a904010'); }
+.p1 div.target-icon.a909000 { background-image: url('../../../assets/images/target-sprites.svg#a909000'); }
+.p1 div.target-icon.a909090 { background-image: url('../../../assets/images/target-sprites.svg#a909090'); }
+.p1 div.target-icon.a949494 { background-image: url('../../../assets/images/target-sprites.svg#a949494'); }
+
+.p1-fusion-table td.sec:after,
+.p1 tr.fusion-color.second td.price:after { content: "↑"; }
+.p1-fusion-table td.fir:after,
+.p1 tr.fusion-color.first td.price:after { content: "→"; }
+.p1-fusion-table td.non:after,
+.p1 tr.fusion-color.none td.price:after { content: "○"; }
+.p1-fusion-table td.unf:after,
+.p1 tr.fusion-color.unfav td.price:after { content: "↓"; }
+
+.p1-fusion-table td.blu,
+.p1 tr.fusion-color.blue td.price { color: cyan; }
+.p1-fusion-table td.red,
+.p1 tr.fusion-color.red td.price { color: tomato; }
+.p1 td.lvl111,
+.p1 td.lvl115 { color: red; }
+.p1 td.lvl112,
+.p1 td.lvl116 { color: orange; }
+.p1 td.lvl113,
+.p1 td.lvl117 { color: magenta; }
+.p1 td.lvl114,
+.p1 td.lvl118 { color: cyan; }
+
+.p1 th.title, .p1 th.nav.active, .p1 th.nav.active a {
+  color: black;
+  background-color: #a9a9a9;
+}
+
+.p2t th.title, .p2t th.nav.active, .p2t th.nav.active a {
+  color: white;
+  background-color: #8b668b;
+}
+
+.p2b th.title, .p2b th.nav.active, .p2b th.nav.active a {
+  color: white;
+  background-color: #b3668b;
+}

@@ -1,0 +1,34 @@
+import { Demon as BaseDemon, Skill as BaseSkill } from '../compendium/models';
+
+export interface Demon extends BaseDemon {
+  atks: number[];
+  align: string;
+}
+
+export interface Skill extends BaseSkill {
+  power: number;
+  rank: number;
+  target?: string;
+}
+
+export interface CompendiumConfig {
+  appTitle: string;
+  raceOrder: { [race: string]: number };
+  elemOrder: { [elem: string]: number };
+
+  appCssClasses: string[];
+  races: string[];
+  resistElems: string[];
+  skillElems: string[];
+  baseStats: string[];
+  baseAtks: string[];
+
+  resistCodes: { [code: string]: number };
+  inheritSkills?: { [code: number]: { [skill: string]: number } };
+
+  demonData;
+  skillData;
+  alignData;
+  normalTable;
+  specialRecipes?;
+}

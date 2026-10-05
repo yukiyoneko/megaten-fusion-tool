@@ -1,0 +1,50 @@
+import { Demon as BaseDemon, Skill as BaseSkill } from '../compendium/models';
+
+export interface Demon extends BaseDemon {
+  atks: number[];
+  drop: string;
+  align: string;
+}
+
+export interface Skill extends BaseSkill {
+  power: number;
+  rank: number;
+  target?: string;
+}
+
+export interface CompendiumConfig {
+  appTitle: string;
+  raceOrder: { [race: string]: number };
+  elemOrder: { [elem: string]: number };
+
+  appCssClasses: string[];
+  races: string[];
+  resistElems: string[];
+  skillElems: string[];
+  baseStats: string[];
+  baseAtks: string[];
+
+  species: { [spec: string]: string[] };
+  speciesLookup: { [race: string]: string };
+  resistCodes: { [code: string]: number };
+  useSpeciesFusion: boolean;
+  inheritTypes: string[];
+  inheritSkills: { [skill: string]: number }[];
+  getInheritSkills(result: BaseDemon, ingreds: BaseDemon[], compConfig: CompendiumConfig): string[];
+
+  normalLvlModifier: number;
+  tripleLvlModifier: number;
+  demonData;
+  skillData;
+  alignData;
+  normalTable;
+  darkTable?;
+  elementTable;
+  mitamaTable?;
+  tripleTable;
+  tripleDarkTable?;
+  tripleElementTable?;
+  tripleMitamaTable?;
+  specialRecipes?;
+  darknessRecipes?;
+}
